@@ -10,8 +10,8 @@ author: "Marco"
 # Update 'baseurl' to your repo name:
 #   baseurl: "/your-repo-name"
 # Leave empty only if serving from a custom domain root.
-url: ""
-baseurl: ""
+url: "https://BarkBarkBarkBarkBarkBarkBark.github.io"
+baseurl: "/thoozle"
 
 # ── Build ────────────────────────────────────────────────────
 markdown: kramdown
