@@ -483,9 +483,23 @@ code {
   h2 { font-size: 1.45rem; margin-bottom: 1.25rem; }
   h3 { font-size: 1.05rem; margin-top: 2.25rem; }
 
-  .chapter-nav { flex-direction: column; }
-  .chapter-nav a { max-width: 100%; text-align: center; margin-left: 0; }
-  .chapter-nav-next { text-align: center; }
+  .chapter-nav {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .chapter-nav a {
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+    padding: 0.85rem 1rem;
+    font-size: 0.9rem;
+    border-bottom: 1px solid var(--border-light);
+  }
+  .chapter-nav-prev,
+  .chapter-nav-next {
+    text-align: center;
+  }
 
   .cta-row { flex-direction: column; align-items: flex-start; }
 }

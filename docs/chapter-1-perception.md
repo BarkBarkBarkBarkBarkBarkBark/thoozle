@@ -13,13 +13,13 @@ The dog doesn't literally walk into your head — though it sort of feels that w
 
 That transformation — from raw physical energy to a meaningful experience — is perception. And it's one of the most remarkable things your brain does.
 
-### The Mind Chamber
+### The Mind Gate
 
-Nearly all sensory information passes through a structure called the *thalamus* — what we'll call the **Mind Chamber**. Think of it as the front desk of a very busy building. Nearly every piece of incoming mail (sensory data) gets sorted here before being sent to the right department. (The notable exception is smell: olfactory signals bypass the thalamus and project directly to the olfactory cortex, which may be part of why smells are so uniquely evocative of memory.)
+Nearly all sensory information passes through a structure called the *thalamus* — what we'll call the **Mind Gate**. Think of it as the front desk of a very busy building. Nearly every piece of incoming mail (sensory data) gets sorted here before being sent to the right department. (The notable exception is smell: olfactory signals bypass the thalamus and project directly to the olfactory cortex, which may be part of why smells are so uniquely evocative of memory.)
 
-The Mind Chamber does more than just route traffic. It acts as a gate. During sleep, the gate closes — which is why a ticking clock doesn't usually wake you up. During waking life, the gate is selectively open: it lets through what seems relevant and filters out the rest. This filtering is based on feedback from the cortex (the departments upstairs keep sending notes about what they're interested in) and on the thalamus's own preprocessing.
+The Mind Gate does more than just route traffic. It acts as a gate. During sleep, the gate closes — which is why a ticking clock doesn't usually wake you up. During waking life, the gate is selectively open: it lets through what seems relevant and filters out the rest. This filtering is based on feedback from the cortex (the departments upstairs keep sending notes about what they're interested in) and on the thalamus's own preprocessing.
 
-From the Mind Chamber, information flows to two key destinations:
+From the Mind Gate, information flows to two key destinations:
 
 1. **Primary cortex** — where raw signals are first identified. "This is a shape." "This is a frequency." "This is pressure."
 2. **Associative cortex** — where those identifications are put in context. "This shape is a dog." "This frequency is a bark." "That pressure is a tail wagging against my leg."
@@ -52,4 +52,4 @@ Not everything gets the same treatment. The brain has limited resources — ever
 
 This relevance tagging happens fast, often before you're consciously aware of what you've perceived. It's handled largely by a small structure called the *amygdala* — a kind of rapid-response unit buried deep in the medial temporal lobe. The amygdala doesn't do careful analysis. It does quick-and-dirty threat assessment, and if something looks dangerous, it can trigger a full-body alarm before your cortex has even finished processing the image.
 
-This is why you flinch before you know why you flinched. The Mind Chamber has an emergency exit, and it goes straight to your muscles.
+This is why you flinch before you know why you flinched. The Mind Gate has an emergency exit, and it goes straight to your muscles.

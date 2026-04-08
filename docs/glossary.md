@@ -12,7 +12,7 @@ Terms are listed in the order they become relevant, not alphabetically — so yo
 | **Neuron** | A brain cell. Long, thin, electrically active. Communicates with other neurons by releasing chemicals. The basic unit of the nervous system. |
 | **Neurotransmitter** | A chemical messenger released by one neuron to signal another. Different neurotransmitters carry different kinds of messages (excite, inhibit, modulate). |
 | **Receptor** | A protein on the surface of a cell, shaped to catch a specific molecule. When the molecule fits, the cell's behavior changes. Think of it as a lock that only a certain key can open. |
-| **Thalamus (Mind Chamber)** | A structure deep in the brain that acts as a gateway for sensory information. Almost all sensory input passes through here on its way to the cortex. It filters, prioritizes, and routes. |
+| **Thalamus (Mind Gate)** | A structure deep in the brain that acts as a gateway for sensory information. Almost all sensory input passes through here on its way to the cortex. It filters, prioritizes, and routes. |
 | **Cortex (Thoozle)** | The outer layer of the brain — the wrinkly part. Handles perception, language, planning, imagination, and abstract thought. The newest part, evolutionarily. |
 | **Primary Cortex** | The first cortical area to receive sensory input. Identifies basic features: edges, frequencies, textures. |
 | **Associative Cortex** | Cortical areas that put perception in context by linking it to stored knowledge and related concepts. |
