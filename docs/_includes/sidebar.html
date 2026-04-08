@@ -1,0 +1,17 @@
+<nav class="sidebar-nav" aria-label="Table of contents">
+  <p class="sidebar-section-label">Chapters</p>
+  {% for item in site.data.navigation.chapters %}
+  <a href="{{ item.url | relative_url }}"
+     {% if page.url == item.url %}class="active" aria-current="page"{% endif %}>
+    {{ item.title }}
+  </a>
+  {% endfor %}
+
+  <p class="sidebar-section-label">Reference</p>
+  {% for item in site.data.navigation.reference %}
+  <a href="{{ item.url | relative_url }}"
+     {% if page.url == item.url %}class="active" aria-current="page"{% endif %}>
+    {{ item.title }}
+  </a>
+  {% endfor %}
+</nav>

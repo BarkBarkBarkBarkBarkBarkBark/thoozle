@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+
+  <!-- ── Mobile header ──────────────────────────────────── -->
+  <header class="mobile-header" role="banner">
+    <button class="hamburger" id="hamburger-btn"
+            aria-label="Open navigation menu"
+            aria-expanded="false"
+            aria-controls="sidebar">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <a href="{{ '/' | relative_url }}" class="mobile-title">Use Your Thoozle</a>
+  </header>
+
+  <!-- ── Sidebar backdrop (mobile tap-to-close) ─────────── -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true"></div>
+
+  <!-- ── Sidebar ────────────────────────────────────────── -->
+  <aside class="sidebar" id="sidebar" role="navigation" aria-label="Site navigation">
+    <div class="sidebar-header">
+      <a href="{{ '/' | relative_url }}" class="sidebar-book-title">Use Your Thoozle</a>
+      <p class="sidebar-subtitle">A Brief on the Brain</p>
+    </div>
+    {% include sidebar.html %}
+  </aside>
+
+  <!-- ── Main ───────────────────────────────────────────── -->
+  <main class="main-content" id="main-content">
+    <article class="content-wrapper">
+      {{ content }}
+    </article>
+
+    <footer class="site-footer">
+      <p>© Marco · All rights reserved · Written with a very patient language model.</p>
+    </footer>
+  </main>
+
+  <!-- ── Hamburger script ───────────────────────────────── -->
+  <script>
+    (function () {
+      var btn     = document.getElementById('hamburger-btn');
+      var sidebar = document.getElementById('sidebar');
+      var overlay = document.getElementById('sidebar-overlay');
+
+      function openMenu() {
+        sidebar.classList.add('is-open');
+        overlay.classList.add('is-visible');
+        overlay.setAttribute('aria-hidden', 'false');
+        btn.setAttribute('aria-expanded', 'true');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function closeMenu() {
+        sidebar.classList.remove('is-open');
+        overlay.classList.remove('is-visible');
+        overlay.setAttribute('aria-hidden', 'true');
+        btn.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      }
+
+      btn.addEventListener('click', function () {
+        sidebar.classList.contains('is-open') ? closeMenu() : openMenu();
+      });
+
+      overlay.addEventListener('click', closeMenu);
+
+      // Auto-close on nav-link tap on mobile
+      document.querySelectorAll('.sidebar-nav a').forEach(function (link) {
+        link.addEventListener('click', function () {
+          if (window.innerWidth < 768) closeMenu();
+        });
+      });
+
+      // Escape key closes
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && sidebar.classList.contains('is-open')) closeMenu();
+      });
+    }());
+  </script>
+
+</body>
+</html>

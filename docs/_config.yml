@@ -1,0 +1,39 @@
+title: "Use Your Thoozle"
+tagline: "A Brief on the Brain, for Anyone Who Has One"
+description: "A plain-language guide to how the brain perceives, thinks, feels, and acts — for anyone who has one."
+author: "Marco"
+
+# ── GitHub Pages ────────────────────────────────────────────
+# In GitHub repo Settings → Pages → Source:
+#   Branch: main  |  Folder: /docs
+#
+# Update 'baseurl' to your repo name:
+#   baseurl: "/your-repo-name"
+# Leave empty only if serving from a custom domain root.
+url: ""
+baseurl: ""
+
+# ── Build ────────────────────────────────────────────────────
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  # math_engine left at default so kramdown wraps $$...$$ for MathJax
+
+highlighter: rouge
+
+# ── Exclude ──────────────────────────────────────────────────
+# Files outside /docs are already invisible to Jekyll.
+# Only need to exclude build artifacts inside /docs.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# ── Defaults ─────────────────────────────────────────────────
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "chapter"

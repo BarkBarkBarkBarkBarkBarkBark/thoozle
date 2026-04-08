@@ -1,0 +1,23 @@
+chapters:
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Ch. 1 — Perception"
+    url: /chapter-1-perception/
+  - title: "Ch. 2 — Thought"
+    url: /chapter-2-thought/
+  - title: "Ch. 3 — Feeling"
+    url: /chapter-3-feeling/
+  - title: "Ch. 4 — Doing"
+    url: /chapter-4-doing/
+  - title: "Ch. 5 — Drugs"
+    url: /chapter-5-drugs/
+  - title: "Coda"
+    url: /coda/
+
+reference:
+  - title: "Glossary"
+    url: /glossary/
+  - title: "Theoretical Frameworks"
+    url: /theoretical-frameworks/
+  - title: "Further Reading"
+    url: /further-reading/
