@@ -447,11 +447,15 @@ code {
   background: rgba(0, 0, 0, 0.72);
   z-index: 99;
   opacity: 0;
+  pointer-events: none;
   transition: opacity 0.3s ease;
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
 }
-.sidebar-overlay.is-visible { opacity: 1; }
+.sidebar-overlay.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
 
 /* =============================================================
    RESPONSIVE
