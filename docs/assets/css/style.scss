@@ -447,14 +447,16 @@ code {
   background: rgba(0, 0, 0, 0.72);
   z-index: 99;
   opacity: 0;
+  visibility: hidden;
   pointer-events: none;
-  transition: opacity 0.3s ease;
-  backdrop-filter: blur(2px);
-  -webkit-backdrop-filter: blur(2px);
+  transition: opacity 0.3s ease, visibility 0.3s ease;
 }
 .sidebar-overlay.is-visible {
   opacity: 1;
+  visibility: visible;
   pointer-events: auto;
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
 }
 
 /* =============================================================
