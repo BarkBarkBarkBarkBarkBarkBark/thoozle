@@ -39,6 +39,14 @@ Terms are listed in the order they become relevant, not alphabetically — so yo
 | **The Impossible Task** | A task for which the brain's cost-benefit analysis returns an unfavorable result — high perceived effort relative to perceived reward — making initiation feel impossible despite conscious desire. |
 | **Temporal Discounting** | The brain's tendency to devalue rewards that are far in the future. A reward available now is worth more to the brain than the same reward available later. |
 | **Interoception** | The brain's sense of what's happening inside the body — heart rate, gut tension, breathing rhythm, temperature. Increasingly understood as a foundation of emotional experience. |
+| **Sensory Modality** | A distinct channel of sensory information defined by its receptor type and dedicated neural pathway. Vision, hearing, and pain are separate modalities; humans have at least twenty-two. |
+| **Proprioception** | The sense of where your limbs are in space, driven by receptors in muscles, tendons, and joints. Why you can touch your nose with your eyes closed. |
+| **Nociceptor** | A receptor cell specialized for detecting tissue damage or potentially damaging stimuli. The dedicated hardware of pain — a separate channel from touch. |
+| **Cortical Map (Topography)** | The spatial organization of a primary sensory area, in which neighboring neurons respond to neighboring stimuli. The visual map (retinotopy), the frequency map (tonotopy), and the body map (homunculus) are examples. |
+| **Hallucination** | Perception without external input — seeing, hearing, or feeling something generated entirely by the brain's own activity. Distinguished from imagination by its involuntariness and perceptual vividness. |
+| **Deafferentation** | Loss of sensory input to a brain area, typically due to receptor damage (e.g., retinal degeneration). The affected cortex often becomes hyperexcitable in response. |
+| **Excitation/Inhibition (E/I) Balance** | The dynamic equilibrium between excitatory signals (mainly glutamate) and inhibitory signals (mainly GABA) in neural circuits. Disruption of this balance is implicated in hallucinations, seizures, and other conditions. |
+| **Charles Bonnet Syndrome** | A condition in which people experiencing vision loss develop vivid visual hallucinations — not from psychiatric illness, but from hyperexcitability in a visual cortex deprived of input. |
 | **Sympathetic Nervous System** | The "fight or flight" branch of the autonomic nervous system. Activates the body for action: increases heart rate, dilates pupils, diverts blood to muscles. |
 | **Parasympathetic Nervous System** | The "rest and digest" branch of the autonomic nervous system. Calms the body down after a threat has passed. |
 | **Prefrontal Cortex** | The front-most region of the cortex. Handles executive functions: planning, impulse control, decision-making, and overriding habitual responses. |

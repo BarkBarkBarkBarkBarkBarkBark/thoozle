@@ -31,11 +31,11 @@ This loop runs constantly, from the moment you're born until you die. It ran in 
 
 The brain creates three categories of experience, each rooted in a different (but deeply interconnected) set of biological machinery:
 
-### Thinking — *What's happening?*
-The brain captures information from the world and replays it internally — like a sampler that can record, remix, and improvise. **Perception** is the brain's live feed. **Memory** is the archive. **Prediction** is the brain projecting what comes next. **Imagination** is the brain running the projector with no film from the outside world — which is why it really only gets to show pictures during dreams.
-
 ### Feeling — *Does it matter?*
 Everything the brain detects gets stamped with a tag: *good*, *bad*, or *irrelevant*. That tag is an emotion. Emotions are physical events — hormones, muscle tension, changes in heart rate — that bias the brain toward or away from action. They exist to make decisions fast. The stronger the tag, the louder the signal, and the harder it is to ignore.
+
+### Thinking — *What's happening?*
+The brain captures information from the world and replays it internally — like a sampler that can record, remix, and improvise. **Perception** is the brain's live feed. **Memory** is the archive. **Prediction** is the brain projecting what comes next. **Imagination** is the brain running the projector with no film from the outside world — which is why it really only gets to show pictures during dreams.
 
 ### Doing — *Is it worth it?*
 Motivation is a cost-benefit calculation. The brain weighs four factors before committing to action:
@@ -63,10 +63,10 @@ Understanding the machinery doesn't fix everything. But it reframes the conversa
     <tbody>
       <tr><td>Intro</td><td><a href="{{ '/introduction/' | relative_url }}">Introduction</a></td><td>What does a brain actually do?</td></tr>
       <tr><td>1</td><td><a href="{{ '/chapter-1-perception/' | relative_url }}">Perception</a></td><td>How does the world get inside your head?</td></tr>
-      <tr><td>2</td><td><a href="{{ '/chapter-2-thought/' | relative_url }}">Thought</a></td><td>What <em>is</em> a thought, and where does it come from?</td></tr>
-      <tr><td>3</td><td><a href="{{ '/chapter-3-feeling/' | relative_url }}">Feeling</a></td><td>Why do emotions feel like they're happening <em>to</em> you?</td></tr>
+      <tr><td>2</td><td><a href="{{ '/chapter-2-feeling/' | relative_url }}">Feeling</a></td><td>Why do emotions feel like they're happening <em>to</em> you?</td></tr>
+      <tr><td>3</td><td><a href="{{ '/chapter-3-thought/' | relative_url }}">Thought</a></td><td>What <em>is</em> a thought, and where does it come from?</td></tr>
       <tr><td>4</td><td><a href="{{ '/chapter-4-doing/' | relative_url }}">Doing</a></td><td>Why can't I just <em>do</em> the thing?</td></tr>
-      <tr><td>5</td><td><a href="{{ '/chapter-5-drugs/' | relative_url }}">Drugs</a></td><td>Why do substances change how it feels to be alive?</td></tr>
+      <tr><td>5</td><td><a href="{{ '/chapter-5-chemistry/' | relative_url }}">Chemistry</a></td><td>Why do substances change how it feels to be alive?</td></tr>
       <tr><td>Coda</td><td><a href="{{ '/coda/' | relative_url }}">How We Got Here</a></td><td>Where did this brain come from?</td></tr>
     </tbody>
   </table>

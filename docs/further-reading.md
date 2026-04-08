@@ -28,16 +28,7 @@ This section maps the major claims in each chapter to their source literature. I
 | Olfaction bypasses the thalamus | Shepherd, G.M. (2005). *Perception Without a Thalamus: How Does Olfaction Do It?* Neuron, 46(2). | — |
 | Amygdala rapid threat assessment | LeDoux, J. (1996). *The Emotional Brain.* Simon & Schuster. | — |
 
-### Chapter 2 — Thought
-
-| Claim | Source | Framework |
-|-------|--------|-----------|
-| Internally generated signals use the same pathways as external | Kosslyn, S.M., et al. (2001). *Neural Foundations of Imagery.* Nature Reviews Neuroscience, 2(9). | [Predictive Processing](/theoretical-frameworks/) |
-| Memory as reconstruction, not recording | Schacter, D.L. (2001). *The Seven Sins of Memory.* Houghton Mifflin. | — |
-| Sleep and memory consolidation | Walker, M.P. (2017). *Why We Sleep.* Scribner. / Diekelmann, S. & Born, J. (2010). *The Memory Function of Sleep.* Nature Reviews Neuroscience, 11(2). | — |
-| The brain's energy-conservation bias | Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. | — |
-
-### Chapter 3 — Feeling
+### Chapter 2 — Feeling
 
 | Claim | Source | Framework |
 |-------|--------|-----------|
@@ -49,6 +40,15 @@ This section maps the major claims in each chapter to their source literature. I
 | Thought suppression increases intrusive thoughts | Wegner, D.M., et al. (1987). *Paradoxical Effects of Thought Suppression.* Journal of Personality and Social Psychology, 53(1). | [Ironic Process Theory](/theoretical-frameworks/) |
 | Social rejection activates pain regions | Eisenberger, N.I., Lieberman, M.D., & Williams, K.D. (2003). *Does Rejection Hurt?* Science, 302(5643). | [Social Pain Overlap Theory](/theoretical-frameworks/) |
 | Debate on social/physical pain overlap | Woo, C.W., et al. (2014). *Separate Neural Representations for Physical Pain and Social Rejection.* Nature Communications, 5. | [Social Pain Overlap Theory](/theoretical-frameworks/) |
+
+### Chapter 3 — Thought
+
+| Claim | Source | Framework |
+|-------|--------|-----------|
+| Internally generated signals use the same pathways as external | Kosslyn, S.M., et al. (2001). *Neural Foundations of Imagery.* Nature Reviews Neuroscience, 2(9). | [Predictive Processing](/theoretical-frameworks/) |
+| Memory as reconstruction, not recording | Schacter, D.L. (2001). *The Seven Sins of Memory.* Houghton Mifflin. | — |
+| Sleep and memory consolidation | Walker, M.P. (2017). *Why We Sleep.* Scribner. / Diekelmann, S. & Born, J. (2010). *The Memory Function of Sleep.* Nature Reviews Neuroscience, 11(2). | — |
+| The brain's energy-conservation bias | Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. | — |
 
 ### Chapter 4 — Doing
 
@@ -63,7 +63,7 @@ This section maps the major claims in each chapter to their source literature. I
 | Dopamine reward prediction error | Schultz, W., Dayan, P., & Montague, P.R. (1997). *A Neural Substrate of Prediction and Reward.* Science, 275(5306). | [Reward Prediction Error](/theoretical-frameworks/) |
 | Serotonin's role in behavioral inhibition | Deakin, J.F.W., & Graeff, F.G. (1991). *5-HT and Mechanisms of Defence.* Journal of Psychopharmacology, 5(4). | [Deakin & Graeff Model](/theoretical-frameworks/) |
 
-### Chapter 5 — Drugs
+### Chapter 5 — Chemistry
 
 | Claim | Source | Framework |
 |-------|--------|-----------|

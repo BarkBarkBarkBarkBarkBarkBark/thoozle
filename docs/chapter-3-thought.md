@@ -1,9 +1,9 @@
 ---
-title: "Chapter 2 — Thought: The Projector in the Dark"
-permalink: /chapter-2-thought/
+title: "Chapter 3 — Thought: The Projector in the Dark"
+permalink: /chapter-3-thought/
 ---
 
-## Chapter 2 — Thought: The Projector in the Dark
+## Chapter 3 — Thought: The Projector in the Dark
 
 ### What Is a Thought?
 
@@ -56,7 +56,7 @@ This liberation is what makes imagination both powerful and dangerous. It's the 
 
 Most of the time, thought isn't deliberate. It's associative — one idea triggers another, which triggers another, in a chain that meanders according to the connections stored in the Memory Palace. You think about lunch, which reminds you of a restaurant, which reminds you of a friend, which reminds you of an argument, which makes you feel annoyed, which makes you think about something else annoying, and suddenly you're in a bad mood and you can't quite remember why.
 
-This stream of consciousness is the default mode of thought. It's what happens when the internal projector is left running without direction. It can be a source of insight — letting the mind wander allows unexpected connections to form. It can also be a source of suffering, when the stream gets caught in a loop (more on that in the next chapter).
+This stream of consciousness is the default mode of thought. It's what happens when the internal projector is left running without direction. It can be a source of insight — letting the mind wander allows unexpected connections to form. It can also be a source of suffering, when the stream gets caught in a loop (as we saw in the previous chapter — the worms that won't shut up).
 
 The brain has a built-in tendency toward efficiency. Thinking costs energy — real, measurable calories. So the brain tends to accept the simplest available explanation and move on. This is useful (you'd never get through a day if you deeply analyzed every perception), but it also makes the brain prone to errors. It will accept a plausible story over a true one, if the plausible story requires less work.
 

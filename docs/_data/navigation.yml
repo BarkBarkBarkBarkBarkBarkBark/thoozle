@@ -1,16 +1,19 @@
 chapters:
   - title: "Introduction"
     url: /introduction/
+  - section: "Part I — Detect"
   - title: "Ch. 1 — Perception"
     url: /chapter-1-perception/
-  - title: "Ch. 2 — Thought"
-    url: /chapter-2-thought/
-  - title: "Ch. 3 — Feeling"
-    url: /chapter-3-feeling/
+  - title: "Ch. 2 — Feeling"
+    url: /chapter-2-feeling/
+  - section: "Part II — Predict"
+  - title: "Ch. 3 — Thought"
+    url: /chapter-3-thought/
+  - section: "Part III — Act"
   - title: "Ch. 4 — Doing"
     url: /chapter-4-doing/
   - title: "Ch. 5 — Chemistry"
-    url: /chapter-5-drugs/
+    url: /chapter-5-chemistry/
   - title: "Coda"
     url: /coda/
 

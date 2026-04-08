@@ -1,13 +1,13 @@
 ---
 title: "Chapter 5 — Chemistry: The Brain's Own Pharmacy"
-permalink: /chapter-5-drugs/
+permalink: /chapter-5-chemistry/
 ---
 
 ## Chapter 5 — Chemistry: The Brain's Own Pharmacy
 
 ### The Chemical Self
 
-Your brain runs on chemistry. Everything covered in this book so far — perception, thought, feeling, action — ultimately depends on molecules. Tiny quantities of specific chemicals, released at specific times, in specific places, are what make you alert or drowsy, focused or scattered, elated or despondent. Change the chemistry and you change the experience.
+Your brain runs on chemistry. Everything covered in this book so far — perception, feeling, thought, action — ultimately depends on molecules. Tiny quantities of specific chemicals, released at specific times, in specific places, are what make you alert or drowsy, focused or scattered, elated or despondent. Change the chemistry and you change the experience.
 
 This isn't a metaphor. It's the literal mechanism. When you fall in love, that's chemistry. When you can't sleep because you're anxious, that's chemistry. When a song gives you chills, that's chemistry. Not *just* chemistry — the patterns matter, the context matters, the architecture matters — but without the molecules, nothing happens at all.
 

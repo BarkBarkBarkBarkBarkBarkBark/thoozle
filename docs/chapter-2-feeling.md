@@ -1,9 +1,9 @@
 ---
-title: "Chapter 3 — Feeling: The Tag on Every Experience"
-permalink: /chapter-3-feeling/
+title: "Chapter 2 — Feeling: The Tag on Every Experience"
+permalink: /chapter-2-feeling/
 ---
 
-## Chapter 3 — Feeling: The Tag on Every Experience
+## Chapter 2 — Feeling: The Tag on Every Experience
 
 ### What Emotions Actually Are
 

@@ -10,6 +10,9 @@ layout: default
 {% assign found = nil %}
 
 {% for item in all_pages %}
+  {% unless item.url %}
+    {% continue %}
+  {% endunless %}
   {% if found and next_item == nil %}
     {% assign next_item = item %}
   {% endif %}

@@ -11,7 +11,7 @@ This brief draws on a number of established theories and models from neuroscienc
 
 ### Predictive Processing / Free Energy Principle
 **Originators:** Karl Friston (free energy principle); Andy Clark (predictive processing framework)
-**Used in:** Introduction, Chapter 2
+**Used in:** Introduction, Chapter 1, Chapter 3
 
 The idea that the brain is fundamentally a prediction machine. Rather than passively receiving sensory input, the brain constantly generates expectations about what it *should* be perceiving and compares those expectations against what arrives. Mismatches — *prediction errors* — drive learning and attention. Friston's mathematical formulation (the free energy principle) proposes that all brain function can be understood as minimizing prediction error. Clark's work translates this into a broader cognitive framework. This is arguably the most influential theoretical paradigm in 21st-century neuroscience, though it remains debated — particularly regarding whether it's a testable theory or an unfalsifiable framework.
 
@@ -41,7 +41,7 @@ The model of the brain as three nested layers — reptilian (hindbrain), paleoma
 
 ### James-Lange Theory of Emotion / Somatic Marker Hypothesis
 **Originators:** William James & Carl Lange (1880s); Antonio Damasio (somatic marker hypothesis, 1994)
-**Used in:** Chapter 3
+**Used in:** Chapter 2
 
 The James-Lange theory proposed that emotions are the brain's *interpretation* of bodily states — you don't cry because you're sad; you're sad because you cry. Damasio's somatic marker hypothesis updated this: the brain uses body-state signals ("somatic markers") to guide decision-making, especially under uncertainty. Emotional "gut feelings" are the conscious readout of these markers. This is well-supported but not the only theory of emotion — see Constructionist Theory below.
 
@@ -51,7 +51,7 @@ The James-Lange theory proposed that emotions are the brain's *interpretation* o
 
 ### Constructionist Theory of Emotion
 **Originator:** Lisa Feldman Barrett (2006–present)
-**Used in:** Chapter 3 (as counterpoint)
+**Used in:** Chapter 2 (as counterpoint)
 
 Barrett argues that emotions are not pre-wired biological programs (like "fear circuits" or "anger circuits") but are *constructed* by the brain from more basic ingredients: interoceptive signals, past experience, and conceptual knowledge. On this view, the brain doesn't detect "fear" — it constructs an *instance* of fear by interpreting ambiguous body signals in context. This theory challenges the classical view (that emotions are innate, universal categories) and has generated productive debate.
 
@@ -61,7 +61,7 @@ Barrett argues that emotions are not pre-wired biological programs (like "fear c
 
 ### Circumplex Model of Affect
 **Originator:** James Russell (1980)
-**Used in:** Chapter 3
+**Used in:** Chapter 2
 
 Russell proposed mapping emotions along two continuous dimensions — *valence* (good/bad) and *arousal* (high/low energy) — rather than treating them as discrete categories. This produces a circular "map" of emotional space. The three-axis model used in this brief extends Russell's model by adding a third dimension (attentional focus: narrow vs. diffuse), and splits negative valence into aversive and attached subtypes. The extension is the author's synthesis, not an established model.
 
@@ -71,7 +71,7 @@ Russell proposed mapping emotions along two continuous dimensions — *valence* 
 
 ### Ironic Process Theory
 **Originator:** Daniel Wegner (1987)
-**Used in:** Chapter 3
+**Used in:** Chapter 2
 
 Wegner demonstrated that trying to suppress a thought (his famous example: "don't think of a white bear") paradoxically increases its frequency. The theory proposes two processes: one that actively suppresses the thought, and another that monitors whether the suppression is working — and the monitoring process, ironically, keeps the thought accessible. Well replicated and directly relevant to understanding intrusive thoughts and rumination.
 
@@ -81,7 +81,7 @@ Wegner demonstrated that trying to suppress a thought (his famous example: "don'
 
 ### Treisman's Poison Hypothesis
 **Originator:** Michel Treisman (1977)
-**Used in:** Chapter 3
+**Used in:** Chapter 2
 
 A hypothesis (not established fact) that nausea in response to internal disturbance — including motion sickness — evolved as a defense against poisoning. The logic: if the brain detects an unexpected mismatch in internal signals, one possible explanation is that a toxin was ingested, and vomiting is the safest response. This remains speculative but is widely cited as a plausible evolutionary explanation.
 
@@ -141,8 +141,18 @@ A model proposing that serotonin's primary role is in behavioral inhibition duri
 
 ### Social Pain Overlap Theory
 **Originators:** Naomi Eisenberger, Matthew Lieberman, & Kipling Williams (2003)
-**Used in:** Chapter 3
+**Used in:** Chapter 2
 
 fMRI research showing that social exclusion activates brain regions (particularly the dorsal anterior cingulate cortex) also implicated in physical pain. The finding was influential in establishing that "hurt feelings" are not merely metaphorical — social and physical pain share neural substrates. Subsequent meta-analyses (notably Woo et al., 2014) have suggested the overlap may be less specific than initially claimed, but the core finding — that social pain is neurally real — has held up.
 
 → *Referenced when discussing: why social rejection stings like physical pain, co-option of ancient systems for modern experience.*
+
+---
+
+### Excitation/Inhibition Balance and Hallucination
+**Key sources:** Jardri R, Hugdahl K, et al. (2016), *Schizophrenia Bulletin*; Painter DR, et al. (2018), *Current Biology*; Behrendt RP & Young C (2004), *Behavioral and Brain Sciences*
+**Used in:** Chapter 1
+
+A body of research proposing that hallucinations — across schizophrenia, sensory deprivation, Charles Bonnet Syndrome, and other conditions — arise from disrupted balance between excitatory (glutamate) and inhibitory (GABA) signaling in sensory cortex. Jardri et al.'s 2016 review synthesized evidence from pharmacology, neuroimaging, and computational modeling, concluding that hallucinations are associated with impaired inhibition, hyperactivity in sensory cortices, and reduced precision of prediction-error signaling. Painter et al. (2018) provided direct evidence that individuals with Charles Bonnet hallucinations show stimulus-driven hyperexcitability in early visual cortex — their neurons over-respond to stimulation, consistent with homeostatic upregulation following sensory loss. The model connects to predictive processing: when bottom-up sensory evidence is weak or absent, and cortical excitability is abnormally high, top-down predictions can dominate — producing internally generated percepts that the brain accepts as real.
+
+→ *Referenced when discussing: hallucination as a consequence of perceptual architecture, Charles Bonnet Syndrome, lateral excitation, why sensory loss can cause the brain to "see" things that aren't there.*
