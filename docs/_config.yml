@@ -11,7 +11,7 @@ author: "Marco"
 #   baseurl: "/your-repo-name"
 # Leave empty only if serving from a custom domain root.
 url: "https://BarkBarkBarkBarkBarkBarkBark.github.io"
-baseurl: ""
+baseurl: "/thoozle"
 
 # ── Build ────────────────────────────────────────────────────
 markdown: kramdown
