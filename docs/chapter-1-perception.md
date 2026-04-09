@@ -50,7 +50,7 @@ That weaving starts at the Mind Gate.
 
 Nearly all sensory information passes through a structure called the *thalamus* — what we'll call the **Mind Gate**. Think of it as the front desk of a very busy building. Nearly every piece of incoming mail (sensory data) gets sorted here before being sent to the right department. (The notable exception is smell: olfactory signals bypass the thalamus and project directly to the olfactory cortex, which may be part of why smells are so uniquely evocative of memory.)
 
-The Mind Gate does more than just route traffic. It acts as a gate. During sleep, the gate closes — which is why a ticking clock doesn't usually wake you up. During waking life, the gate is selectively open: it lets through what seems relevant and filters out the rest. This filtering is based on feedback from the cortex (the departments upstairs keep sending notes about what they're interested in) and on the thalamus's own preprocessing.
+The Mind Gate does more than just route traffic. During sleep, the gate closes — which is why a ticking clock doesn't usually wake you up. During waking life, the gate is selectively open: it lets through what seems relevant and filters out the rest. This filtering is based on feedback from the cortex (the departments upstairs keep sending notes about what they're interested in) and on the thalamus's own preprocessing.
 
 From the Mind Gate, information flows to two key destinations:
 
